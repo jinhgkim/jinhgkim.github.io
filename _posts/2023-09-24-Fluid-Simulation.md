@@ -9,7 +9,7 @@ categories: personal-projects
 
 Coming soon!
 
-<!-- 2D Fluid Simulation: <br />
+2D Fluid Simulation: <br />
 First, construct a computational grids with the size of N+2. The additional layer plays a role as defining the boundary conditions. <br />
 Each cell is a fluid object, which contains two information, velocity and density. <br />
 
@@ -22,4 +22,4 @@ Each cell is a fluid object, which contains two information, velocity and densit
 ## References <br />
 
 - [Real-Time Fluid Dynamics for Games](https://www.dgp.toronto.edu/public_user/stam/reality/Research/pdf/GDC03.pdf) by Jos Stam <br />
-- [Fluid Simulation for Dummies](https://mikeash.com/pyblog/fluid-simulation-for-dummies.html) by Mike Ash <br /> -->
+- [Fluid Simulation for Dummies](https://mikeash.com/pyblog/fluid-simulation-for-dummies.html) by Mike Ash <br />
