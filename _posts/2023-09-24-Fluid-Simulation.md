@@ -7,8 +7,19 @@ tags: graphics physics
 categories: personal-projects
 ---
 
-Coming Soon!
+Coming soon!
 
-<!-- Unity, C++ https://edom18.medium.com/how-to-make-c-dll-and-use-it-in-unity-292624f9e87a
+<!-- 2D Fluid Simulation: <br />
+First, construct a computational grids with the size of N+2. The additional layer plays a role as defining the boundary conditions. <br />
+Each cell is a fluid object, which contains two information, velocity and density. <br />
 
-How to set up a Unity project on GitHub https://unityatscale.com/unity-version-control-guide/how-to-setup-unity-project-on-github/ -->
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/FluidGrid.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<br />
+## References <br />
+
+- [Real-Time Fluid Dynamics for Games](https://www.dgp.toronto.edu/public_user/stam/reality/Research/pdf/GDC03.pdf) by Jos Stam <br />
+- [Fluid Simulation for Dummies](https://mikeash.com/pyblog/fluid-simulation-for-dummies.html) by Mike Ash <br /> -->
