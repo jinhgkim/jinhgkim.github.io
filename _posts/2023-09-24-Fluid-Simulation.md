@@ -13,6 +13,8 @@ Coming soon!
 First, construct a computational grids with the size of N+2. The additional layer plays a role as defining the boundary conditions. <br />
 Each cell is a fluid object, which contains two information, velocity and density. <br />
 
+Start from learning mesh generation
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/FluidGrid.png" class="img-fluid rounded z-depth-1" zoomable=true %}
